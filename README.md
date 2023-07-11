@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi I'm Brendon O'Neill a Front-End Developer & Graphic Designer. 
-- 🔭 I’m currently working on an Angular App <br><br>- 🌱 I’m currently learning **React Native and Next.JS , improving my Typescript **<br><br>- 👨‍💻 All of my projects are available at [https://brendononeill.github.io/Portfolio-Revamp/](https://brendononeill.github.io/Portfolio-Revamp/)<br><br>- ⚡ Fun fact **I wasn't always a CSS fan**
+- 🔭 I’m currently working on re-writing Bug Tracking App <br><br>- 🌱 I’m currently learning **React Native and Next.JS , improving my Typescript **<br><br>- 👨‍💻 All of my projects are available at [https://brendononeill.github.io/Portfolio-Revamp/](https://brendononeill.github.io/Portfolio-Revamp/)<br><br>- ⚡ Fun fact **I wasn't always a CSS fan**
 
 
 ## 🌐 Socials:
