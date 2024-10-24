@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi I'm Brendon O'Neill a Front-End Developer & Graphic Designer. 
-<br> -🔭 I’m currently working on updating Kanji App <br><br>- 🌱 I’m currently learning ** Java / Backend technologies **<br><br>- 👨‍💻 All of my projects are available at [https://brendon-oneill.ie](https://brendon-oneill.ie/)<br><br>- ⚡ Fun fact **I wasn't always a CSS fan**
+<br> -🔭 I’m currently working on updating Kanji App <br><br>- 🌱 I’m currently learning ** PHP / Backend technologies **<br><br>- 👨‍💻 All of my projects are available at [https://brendon-oneill.ie](https://brendon-oneill.ie/)<br><br>- ⚡ Fun fact **I wasn't always a CSS fan**
 
 
 ## 🌐 Socials:
